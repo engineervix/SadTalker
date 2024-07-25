@@ -109,7 +109,7 @@ def install():
         "face_alignment": "face-alignment==1.3.5",
         "imageio": "imageio==2.19.3",
         "imageio_ffmpeg": "imageio-ffmpeg==0.4.7",
-        "librosa":"librosa==0.8.0",
+        "librosa":"librosa==0.9.2",
         "pydub":"pydub==0.25.1",
         "scipy":"scipy==1.8.1",
         "tqdm": "tqdm",
